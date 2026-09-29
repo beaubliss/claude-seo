@@ -15,6 +15,7 @@ metadata:
   author: AgriciDaniel
   version: "2.4.0"
   category: seo
+disable-model-invocation: true
 ---
 
 # DataForSEO: Live SEO Data (Extension)
