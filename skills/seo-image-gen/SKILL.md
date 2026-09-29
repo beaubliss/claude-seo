@@ -9,6 +9,7 @@ metadata:
   author: AgriciDaniel
   version: "2.4.2"
   category: seo
+disable-model-invocation: true
 ---
 
 # SEO Image Gen: AI Image Generation for SEO Assets (Extension)

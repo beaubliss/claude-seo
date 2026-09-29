@@ -8,6 +8,7 @@ metadata:
   author: AgriciDaniel
   version: "2.4.2"
   category: seo
+disable-model-invocation: true
 ---
 
 # Full Website SEO Audit
